@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 def main():
-    st.title('MML Generator')
+    st.title('MML Gen_test')
 
     # Сессия для хранения данных
     if 'eNB_list_data' not in st.session_state:
